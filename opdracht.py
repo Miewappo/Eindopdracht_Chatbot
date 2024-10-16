@@ -13,8 +13,8 @@ responses = {
 "Mijn geld is niet teruggestort. Wat moet ik nu doen?"  :"Hoeveel dagen zit u al te wachten sinds u uw paket heeft geretouneerd? Als het meer dan 5 werkdagen is moet u contact opnemen met de service balie.",
 "Hoe wijzig ik mijn bestelling?"                        :"U kunt uw bestelling alleen wijzigen als u nog geen verzendbewijs heeft gekregen. Neem contact op met onze klantenservice om de naam of het adres van je bestelling aan te passen.",
 "Hoe annuleer ik mijn bestelling?"                      :"Als u naar mijn bestellingen gaat in mijn Coolblue dan kunt u daar uw besteling annuleren.",
-"Is mijn product op"
-""
+"Is mijn product op voorraad"                           :""
+"Hoe weet ik wanneer mijn bestelling aankomt?"             :""
 
 
 }
